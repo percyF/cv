@@ -1,0 +1,18 @@
+html body {
+    background-color: #222;
+    color: #8c3;
+}
+
+ul ol {
+    color: #ddd;
+    font-weight: bold;
+} 
+li {
+    color: rgb(82, 130, 235);
+    font-weight: 500;
+}
+.qualities {
+    font-size: 1em;
+    font-weight: bolder;
+    color: #fff;
+}
