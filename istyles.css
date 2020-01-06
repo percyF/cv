@@ -1,0 +1,56 @@
+html body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #293462;
+    color:#f7be16;
+}
+
+ul ol {
+    color: #f7be16;
+    font-weight: bold;
+} 
+li {
+    color: #00818a;
+    font-weight: 500;
+}
+.qualities {
+    font-size: 1em;
+    font-weight: bolder;
+    color: #00818a;
+}
+a {
+    background: #444466;
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    margin-right: 50px;
+    padding: 5px;
+    color: #00c1ca;
+    font-weight: 600;
+    border-radius: 50%;
+    text-decoration: wavy;
+    float: right;
+}
+a:hover {
+    background: #333355;
+    font-weight: bold;
+    color: #00c1ca;
+    box-shadow: 1px 1px #222222;
+    border-radius: 50%;
+    border: 2px solid #444466;
+}
+label {
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+}
+input {
+    border-radius: 5px;
+}
+.btn {
+    float: left;
+    margin-left: 110px;
+}
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3em;
+}
